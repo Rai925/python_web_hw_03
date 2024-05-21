@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "wh-web-03"
+version = "0.1.0"
+description = ""
+authors = ["Rai <154880397+Rai925@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+progress = "^1.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
